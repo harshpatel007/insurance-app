@@ -1,4 +1,4 @@
-# insurance
+# Insurance App
 
 ## Build Setup
 
